@@ -1,6 +1,9 @@
 {
-  "name": "surveys-api",
+  "name": "surveys-api-cleancode",
   "version": "1.0.0",
   "main": "index.js",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "git-commit-msg-linter": "^3.2.8"
+  }
 }
